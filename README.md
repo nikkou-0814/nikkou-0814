@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- hello
+### Hi there 👋 I'm KotaroIto
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkou-0814&show_icons=true&theme=dracula)
 
