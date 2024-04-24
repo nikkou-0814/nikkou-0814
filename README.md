@@ -1,4 +1,4 @@
-### Hi there 👋 I'm KotaroIto
+<h1 align="center">Hi there 👋 I'm KotaroIto</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkou-0814&show_icons=true&theme=dracula)
 
