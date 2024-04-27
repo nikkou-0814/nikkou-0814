@@ -69,7 +69,5 @@
 
 ###
 
-<h1 align="left">My YouTube Account</h1>
-
-<a href="https://www.youtube.com/@nikkou_0814"></a>
+<h2 align="left"><a href="https://www.youtube.com/@nikkou_0814">My YouTube Account</a></h2>
 ###
