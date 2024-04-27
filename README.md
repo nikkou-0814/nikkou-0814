@@ -72,7 +72,3 @@
 <h1 align="left"></h1>
 
 ###
-
-<img src="https://raw.githubusercontent.com/nikkou-0814/nikkou-0814/output/snake.svg" alt="Snake animation" />
-
-###
