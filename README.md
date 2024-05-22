@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm KotaroIto</h1>
+<h1 align="center">Hi there 👋 My name is KotaroIto</h1>
 
 ###
 
