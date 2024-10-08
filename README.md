@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/f6ac7c63-2ec8-452c-84e2-9da1a86dfe20.svg)](https://wakatime.com/@f6ac7c63-2ec8-452c-84e2-9da1a86dfe20)
 <h1 align="center">Hi there 👋 My name is KotaroIto</h1>
 
 ###
