@@ -1,4 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/f6ac7c63-2ec8-452c-84e2-9da1a86dfe20.svg)](https://wakatime.com/@f6ac7c63-2ec8-452c-84e2-9da1a86dfe20)
 <h1 align="center">Hi there 👋 My name is KotaroIto</h1>
 
 ###
@@ -76,4 +75,12 @@
 
 ###
 
-<h2 align="left"><a href="https://www.youtube.com/@nikkou_0814">My YouTube Account</a></h2>
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/nikkou-0814/nikkou-0814/">
+      <img src="https://komarev.com/ghpvc/?username=nikkou-0814&style=flat&color=red" alt="" />
+  </a>
+  
+  <a href="https://wakatime.com/@f6ac7c63-2ec8-452c-84e2-9da1a86dfe20" style="margin-left: 10px;">
+      <img src="https://wakatime.com/badge/user/f6ac7c63-2ec8-452c-84e2-9da1a86dfe20.svg" alt="Total time coded since Oct 9 2024" />
+  </a>
+</div>
