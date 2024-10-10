@@ -73,6 +73,25 @@
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
 </div>
 
+<h2 align="left">Language Proficiency</h2>
+
+###
+(上から学んだ順)
+|言語|理解度|コメント|
+|-|-|-|
+|国語|少しなら|テスト時にページめくったときにｽﾞﾗｰｯって出てくる文章嫌いです|
+|算数・数学|Nothing|もう嫌です。この2文字すら見たくないです|
+|英語|できないよりはできる|軽い文章ならわかる、単語はあまり覚えてない|
+|HTML|基本的なWebページなら|Next.jsに移行するする詐欺して限界まで引きずった言語|
+|CSS|ちょっとしたアニメなら|位置関係が苦手、デザインならそこそこできる|
+|Python|DiscordBOTなら|Python大好きです。メイン言語と言って良いんじゃないかと|
+|JavaScript|ちょっとしたものなら|めっちゃはできない + そこまで好きじゃない|
+|PHP|ほんと少しだけ|もう忘れたレベル|
+|Swift|ちょっとなら|めっちゃハマってたけどMacの容量的に開発ができない|
+|Java|Minecraftなら少し|エラーがパッと見てわからないからGPTに要約させてる|
+|TypeScript|少しだけ|最近勉強中、エラー出ると発狂します|
+<!--||||-->
+
 ###
 
 <div style="display: flex; align-items: center;">
