@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A frontend developer from Japanese</h3>
+<h3 align="center">A frontend developer from Japan</h3>
 
 ###
 
